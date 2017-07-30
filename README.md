@@ -1,6 +1,6 @@
-# simple-translator
+# [Simple translator](https://negodiaev.github.io/simple-translator/)
 
-> A Vue.js project
+> A simple Vue.js word translator
 
 ## Build Setup
 
